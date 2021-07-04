@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 40px;
@@ -56,4 +57,18 @@ section{
     text-align: center;
     padding: 100px;
     background-color: rgb(235, 156, 60);
+}
+.sec-one{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.sec-two{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.sec-exp{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: 150px ;
 }
